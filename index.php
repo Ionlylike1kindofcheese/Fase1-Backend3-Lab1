@@ -1,4 +1,4 @@
 <?php
   require "variables.php";
-  echo "<p>" . $myName . "</p>";
+  echo "<p>" . json_encode($fruits) . "</p>";
 ?>

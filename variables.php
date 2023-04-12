@@ -1,3 +1,3 @@
 <?php
-  $myName = "Robin Vervoorn";
+  $fruits = ["Appel", "Druif", "Tomaat"];
 ?>
